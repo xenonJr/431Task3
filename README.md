@@ -3,7 +3,7 @@
 Link to unlisted YouTube video:
 [https://youtu.be/ac_cm714IGY](https://www.youtube.com/playlist?list=PLsgyXAsvWYv5Jb24zBPj4ph1iMXOjWJ1h)
 
-public links to the Concept Map: https://drive.google.com/file/d/1ceDFWYFTd5kURxGXgcftKjgy1u9xxt17/view?usp=share_link
+public links to the Concept Map: https://drive.google.com/file/d/14scsQrKidarOh4sL7VmVjZecUJ5GAd4w/view
 
 
 Speech and Language Processing
